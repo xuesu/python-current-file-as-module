@@ -27,6 +27,12 @@ cd /home/user1/vscode-ext-test/src ; /usr/bin/env /bin/python3 /home/user1/.vsco
 Hello World!
 ```
 
+how to install it locally:
+```
+ ./node_modules/.bin/vsce package
+code --install-extension python-current-file-as-module-0.0.1.vsix 
+```
+
 
 ## Features
 
