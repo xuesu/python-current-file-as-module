@@ -2,6 +2,10 @@
   "name": "python-current-file-as-module",
   "displayName": "python_current_file_as_module",
   "description": "Enable Python Current File As Module",
+  "homepage": "https://github.com/xuesu/python-current-file-as-module",
+  "bugs": {
+    "url": "https://github.com/xuesu/python-current-file-as-module/issues"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.87.0"
